@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.geofortomorrow.org/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/about.html</loc>
+  <lastmod>2016-10-13T02:44:37+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/courses.html</loc>
+  <lastmod>2016-10-17T04:36:31+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/join.html</loc>
+  <lastmod>2016-10-16T17:07:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/volunteer.html</loc>
+  <lastmod>2016-10-13T02:44:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/resources.html</loc>
+  <lastmod>2016-01-18T04:16:44+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/newsview/</loc>
+  <lastmod>2016-10-20T07:04:12+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/studentregistration.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/docs/GFT_Newsletter_Spring_Summer_2016.pdf</loc>
+  <lastmod>2016-09-04T03:37:24+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/docs/7WeekCP_Sample.pdf</loc>
+  <lastmod>2016-10-16T02:50:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/docs/7WeekCP_SamplePacket.pdf</loc>
+  <lastmod>2016-10-16T03:46:46+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/docs/5WeekSpaceCP_Sample.pdf</loc>
+  <lastmod>2016-10-16T02:50:20+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/docs/5WeekGeoCodingCP_Sample.pdf</loc>
+  <lastmod>2016-10-16T03:30:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/docs/5WeekThemeCP_Sample.pdf</loc>
+  <lastmod>2016-10-16T03:30:07+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/application.html</loc>
+  <lastmod>2016-10-16T17:06:45+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/newsview/index.html</loc>
+  <lastmod>2016-10-20T07:04:12+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/questions.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/submitquestions.html</loc>
+  <lastmod>2016-01-18T06:33:02+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/newsview/app.html</loc>
+  <lastmod>2016-10-20T03:07:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.geofortomorrow.org/docs/volAgForm.pdf</loc>
+  <lastmod>2015-09-06T00:18:39+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
